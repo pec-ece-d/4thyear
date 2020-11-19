@@ -1,0 +1,12 @@
+.a{
+	color: green;
+	background-color: skyblue;
+	font-size: 300%;
+}
+.b{
+	color :brown;
+	background-color: yellow;
+}
+*{
+	text-align: center;
+}
